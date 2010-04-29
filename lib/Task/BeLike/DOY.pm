@@ -1,20 +1,56 @@
 package Task::BeLike::DOY;
-use Moose;
 
 =head1 NAME
 
-Task::BeLike::DOY -
+Task::BeLike::DOY - modules i use
 
-=head1 SYNOPSIS
+=head1 CONTENTS
 
+=over 4
 
-=head1 DESCRIPTION
+=item App::Ack
 
+=item App::cpanminus 1.00
+
+=item App::Nopaste 0.20
+
+=item App::Termcast 0.06
+
+=item Archive::Zip
+
+=item B::Keywords
+
+=item Carp::REPL
+
+=item Devel::REPL
+
+=item Dist::Zilla 2.00
+
+=item IO::Pty::Easy 0.08
+
+=item KiokuDB::Navigator
+
+=item LWP
+
+=item Module::Refresh
+
+=item Module::Setup
+
+=item Moose 1.00
+
+=item Net::GitHub 0.06
+
+=item Scalar::Defer
+
+=item Term::ReadLine::Gnu
+
+=item WWW::Mechanize
+
+=item YAML
+
+=back
 
 =cut
-
-__PACKAGE__->meta->make_immutable;
-no Moose;
 
 =head1 BUGS
 
@@ -23,9 +59,6 @@ No known bugs.
 Please report any bugs through RT: email
 C<bug-task-belike-doy at rt.cpan.org>, or browse to
 L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Task-BeLike-DOY>.
-
-=head1 SEE ALSO
-
 
 =head1 SUPPORT
 
