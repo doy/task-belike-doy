@@ -20,7 +20,13 @@ Task::BeLike::DOY - modules i use
 
 =item B::Keywords
 
+=item Carp::Always
+
 =item Carp::REPL
+
+=item Devel::Cover
+
+=item Devel::NYTProf 3.00
 
 =item Devel::REPL
 
