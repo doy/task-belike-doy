@@ -46,6 +46,8 @@ Task::BeLike::DOY - modules i use
 
 =item Net::GitHub 0.06
 
+=item Path::Class
+
 =item Pod::Coverage::TrustPod
 
 =item Scalar::Defer
