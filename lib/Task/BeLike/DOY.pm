@@ -46,9 +46,15 @@ Task::BeLike::DOY - modules i use
 
 =item Net::GitHub 0.06
 
+=item Pod::Coverage::TrustPod
+
 =item Scalar::Defer
 
 =item Term::ReadLine::Gnu
+
+=item Test::Pod
+
+=item Test::Pod::Coverage
 
 =item WWW::Mechanize
 
