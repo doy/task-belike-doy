@@ -20,7 +20,7 @@ Task::BeLike::DOY - modules i use
 
 =item B::Keywords
 
-=item Carp::Always
+=item Carp::Always::Color 0.02
 
 =item Carp::REPL
 
