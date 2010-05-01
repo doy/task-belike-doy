@@ -24,6 +24,10 @@ Task::BeLike::DOY - modules i use
 
 =item Carp::REPL
 
+=item CPAN::Mini
+
+=item CPAN::Mini::Webserver
+
 =item Devel::Cover
 
 =item Devel::NYTProf 3.00
