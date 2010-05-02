@@ -1,74 +1,75 @@
 package Task::BeLike::DOY;
+#ABSTRACT: modules I use
 
-=head1 NAME
+=pkgroup Useful apps
 
-Task::BeLike::DOY - modules i use
+=pkg App::Ack
 
-=head1 CONTENTS
+=pkg App::Nopaste 0.20 has Codepeek pastebin
 
-=over 4
+=pkg App::Termcast 0.06
 
-=item App::Ack
+=pkg KiokuDB::Navigator
 
-=item App::cpanminus 1.00
+=pkgroup Development tools
 
-=item App::Nopaste 0.20
+=pkg Carp::Always::Color 0.03
 
-=item App::Termcast 0.06
+=pkg Carp::REPL
 
-=item Archive::Zip
+=pkg Devel::Cover
 
-=item B::Keywords
+=pkg Devel::NYTProf 3.00
 
-=item Carp::Always::Color 0.03
+=pkg Devel::REPL
 
-=item Carp::REPL
+=pkg Dist::Zilla 2.00
 
-=item CPAN::Mini
+=pkg Module::Setup
 
-=item CPAN::Mini::Webserver
+=pkgroup Useful optional deps for things
 
-=item Devel::Cover
+=pkg Archive::Zip
 
-=item Devel::NYTProf 3.00
+=pkg B::Keywords
 
-=item Devel::REPL
+=pkg LWP
 
-=item Dist::Zilla 2.00
+=pkg Module::Refresh
 
-=item IO::Pty::Easy 0.08
+=pkg Pod::Coverage::TrustPod
 
-=item KiokuDB::Navigator
+=pkg Scalar::Defer
 
-=item LWP
+=pkg Term::ReadLine::Gnu
 
-=item Module::Refresh
+=pkg Test::Pod
 
-=item Module::Setup
+=pkg Test::Pod::Coverage
 
-=item Moose 1.00
+=pkg YAML
 
-=item Net::GitHub 0.06
+=pkgroup CPAN interaction
 
-=item Path::Class
+=pkg App::cpanminus 1.00
 
-=item Pod::Coverage::TrustPod
+=pkg CPAN::Mini
 
-=item Scalar::Defer
+=pkg CPAN::Mini::Webserver
 
-=item Term::ReadLine::Gnu
+=pkgroup Modules I use a lot
 
-=item Test::Pod
+=pkg Moose 1.00
 
-=item Test::Pod::Coverage
+=pkg Path::Class
 
-=item WWW::Mechanize
+=pkg WWW::Mechanize
 
-=item YAML
+=pkgroup Dependencies for my non-CPAN apps
 
-=back
+=pkg IO::Pty::Easy 0.08
 
-=cut
+=pkg Net::GitHub 0.06 includes ::V2
 
 =head1 BUGS
 
