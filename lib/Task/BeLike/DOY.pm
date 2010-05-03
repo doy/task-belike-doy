@@ -23,6 +23,8 @@ package Task::BeLike::DOY;
 
 =pkg Devel::REPL
 
+=pkg Devel::Trace
+
 =pkg Dist::Zilla 2.00
 
 =pkg Module::Setup
