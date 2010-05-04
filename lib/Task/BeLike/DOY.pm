@@ -55,6 +55,8 @@ package Task::BeLike::DOY;
 
 =pkg App::cpanminus 1.00
 
+=pkg App::cpanoutdated 0.05 for offline mode
+
 =pkg CPAN::Mini
 
 =pkg CPAN::Mini::Webserver
