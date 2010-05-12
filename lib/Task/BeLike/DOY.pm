@@ -29,6 +29,8 @@ package Task::BeLike::DOY;
 
 =pkg Module::Setup
 
+=pkg Task::SDK::Moose
+
 =pkgroup Useful optional deps for things
 
 =pkg Archive::Zip
