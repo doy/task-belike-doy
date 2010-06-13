@@ -2,5 +2,9 @@ Revision history for Task-BeLike-DOY
 
 {{$NEXT}}
 
+0.02  2010-06-13
+      - add a few more things
+      - convert to more in depth dzil stuff
+
 0.01  2010-05-02
       - Initial release
