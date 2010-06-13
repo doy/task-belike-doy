@@ -25,9 +25,13 @@ package Task::BeLike::DOY;
 
 =pkg Devel::Trace
 
-=pkg Dist::Zilla 2.00
+=pkg Dist::Zilla 4.00
+
+=pkg Dist::Zilla::PluginBundle::DOY
 
 =pkg Module::Setup
+
+=pkg Pod::Weaver::Section::Template
 
 =pkg Task::SDK::Moose
 
