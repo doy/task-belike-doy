@@ -17,6 +17,8 @@ package Task::BeLike::DOY;
 
 =pkg Carp::REPL
 
+=pkg circular::require
+
 =pkg Devel::Cover
 
 =pkg Devel::NYTProf 3.00
@@ -27,7 +29,9 @@ package Task::BeLike::DOY;
 
 =pkg Dist::Zilla 4.00
 
-=pkg Dist::Zilla::PluginBundle::DOY
+=pkg Dist::Zilla::PluginBundle::DOY 0.05
+
+=pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
 =pkg Module::Setup
 
@@ -80,6 +84,8 @@ package Task::BeLike::DOY;
 =pkg IO::Pty::Easy 0.08
 
 =pkg Net::GitHub 0.06 includes ::V2
+
+=pkg File::pushd
 
 =for taskweaver_parsing_is_broken
 
