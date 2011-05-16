@@ -9,8 +9,6 @@ package Task::BeLike::DOY;
 
 =pkg App::Termcast 0.06
 
-=pkg KiokuDB::Navigator
-
 =pkgroup Development tools
 
 =pkg Carp::Always::Color 0.03
@@ -33,23 +31,27 @@ package Task::BeLike::DOY;
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
-=pkg Module::Setup
-
-=pkg Pod::Weaver::Section::Template
-
 =pkg Task::SDK::Moose
 
 =pkgroup Useful optional deps for things
+
+=pkg autodie
 
 =pkg Archive::Zip
 
 =pkg B::Keywords
 
+=pkg Class::Refresh
+
+=pkg Devel::PartialDump
+
+=pkg KiokuDB::Backend::DBI
+
 =pkg LWP
 
-=pkg Module::Refresh
-
 =pkg Pod::Coverage::TrustPod
+
+=pkg Proc::InvokeEditor
 
 =pkg Scalar::Defer
 
@@ -63,9 +65,11 @@ package Task::BeLike::DOY;
 
 =pkgroup CPAN interaction
 
-=pkg App::cpanminus 1.00
+=pkg App::cpanminus 1.4000
 
 =pkg App::cpanoutdated 0.05 for offline mode
+
+=pkg App::pmuninstall
 
 =pkg CPAN::Mini
 
@@ -73,11 +77,17 @@ package Task::BeLike::DOY;
 
 =pkgroup Modules I use a lot
 
-=pkg Moose 1.00
+=pkg DateTime
 
-=pkg Path::Class
+=pkg KiokuDB
 
-=pkg WWW::Mechanize
+=pkg Moose 2.0000
+
+=pkg MooseX::Types::Path::Class
+
+=pkg MooseX::Types::URI
+
+=pkg Plack
 
 =pkgroup Dependencies for my non-CPAN apps
 
@@ -86,6 +96,8 @@ package Task::BeLike::DOY;
 =pkg Net::GitHub 0.06 includes ::V2
 
 =pkg File::pushd
+
+=pkg WWW::Mechanize
 
 =for taskweaver_parsing_is_broken
 
