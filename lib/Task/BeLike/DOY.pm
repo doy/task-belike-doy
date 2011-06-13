@@ -75,6 +75,8 @@ package Task::BeLike::DOY;
 
 =pkg CPAN::Mini::Webserver
 
+=pkg Pod::Cpandoc
+
 =pkgroup Modules I use a lot
 
 =pkg DateTime
