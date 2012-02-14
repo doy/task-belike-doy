@@ -31,8 +31,6 @@ package Task::BeLike::DOY;
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
-=pkg Task::SDK::Moose
-
 =pkgroup Useful optional deps for things
 
 =pkg autodie
