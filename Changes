@@ -1,6 +1,7 @@
 Revision history for Task-BeLike-DOY
 
 {{$NEXT}}
+      - Task::SDK::Moose no longer exists
 
 0.04  2011-05-16
       - more updates
