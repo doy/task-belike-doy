@@ -9,6 +9,10 @@ package Task::BeLike::DOY;
 
 =pkg App::Termcast 0.06
 
+=pkg App::Ttyrec
+
+=pkg Term::TtyRec::Plus 0.09 for ttyplay and ttytime
+
 =pkgroup Development tools
 
 =pkg Carp::Always::Color 0.03
