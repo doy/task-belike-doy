@@ -11,6 +11,8 @@ package Task::BeLike::DOY;
 
 =pkg App::Ttyrec
 
+=pkg LastFM::Export
+
 =pkg Term::TtyRec::Plus 0.09 for ttyplay and ttytime
 
 =pkgroup Development tools
@@ -31,7 +33,7 @@ package Task::BeLike::DOY;
 
 =pkg Dist::Zilla 4.00
 
-=pkg Dist::Zilla::PluginBundle::DOY 0.05
+=pkg Dist::Zilla::PluginBundle::DOY 0.07
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
@@ -46,6 +48,8 @@ package Task::BeLike::DOY;
 =pkg Class::Refresh
 
 =pkg Devel::PartialDump
+
+=pkg JSON
 
 =pkg KiokuDB::Backend::DBI
 
@@ -67,7 +71,7 @@ package Task::BeLike::DOY;
 
 =pkgroup CPAN interaction
 
-=pkg App::cpanminus 1.4000
+=pkg App::cpanminus 1.5007 for build.log prompting
 
 =pkg App::cpanoutdated 0.05 for offline mode
 
@@ -81,17 +85,31 @@ package Task::BeLike::DOY;
 
 =pkgroup Modules I use a lot
 
+=pkg Bread::Board::Declare
+
+=pkg Data::Stream::Bulk
+
+=pkg Data::Visitor
+
 =pkg DateTime
 
 =pkg KiokuDB
 
-=pkg Moose 2.0000
+=pkg Moose 2.0400
 
 =pkg MooseX::Types::Path::Class
 
 =pkg MooseX::Types::URI
 
+=pkg namespace::autoclean
+
+=pkg Path::Class 0.25 for ->traverse
+
 =pkg Plack
+
+=pkg Term::ProgressBar
+
+=pkg Test::Requires
 
 =pkgroup Dependencies for my non-CPAN apps
 
