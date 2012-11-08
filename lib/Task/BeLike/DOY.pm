@@ -7,6 +7,8 @@ package Task::BeLike::DOY;
 
 =pkg App::Nopaste 0.20 has Codepeek pastebin
 
+=pkg App::ph
+
 =pkg App::Termcast 0.06
 
 =pkg App::Ttyrec
@@ -17,6 +19,8 @@ package Task::BeLike::DOY;
 
 =pkgroup Development tools
 
+=pkg App::ForkProve 0.2.0
+
 =pkg Carp::Always::Color 0.03
 
 =pkg Carp::REPL
@@ -25,17 +29,23 @@ package Task::BeLike::DOY;
 
 =pkg Devel::Cover
 
+=pkg Devel::FindRef
+
 =pkg Devel::NYTProf 3.00
 
 =pkg Devel::REPL
+
+=pkg Devel::STDERR::Indent
 
 =pkg Devel::Trace
 
 =pkg Dist::Zilla 4.00
 
-=pkg Dist::Zilla::PluginBundle::DOY 0.07
+=pkg Dist::Zilla::PluginBundle::DOY 0.09
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
+
+=pkg Test::Pretty
 
 =pkgroup Useful optional deps for things
 
@@ -49,11 +59,13 @@ package Task::BeLike::DOY;
 
 =pkg Devel::PartialDump
 
+=pkg HTTP::Parser::XS
+
 =pkg JSON
 
-=pkg KiokuDB::Backend::DBI
-
 =pkg LWP
+
+=pkg LWP::Protocol::https
 
 =pkg Pod::Coverage::TrustPod
 
@@ -79,27 +91,15 @@ package Task::BeLike::DOY;
 
 =pkg CPAN::Mini
 
-=pkg CPAN::Mini::Webserver
-
 =pkg Pod::Cpandoc
 
 =pkgroup Modules I use a lot
 
 =pkg Bread::Board::Declare
 
-=pkg Data::Stream::Bulk
-
-=pkg Data::Visitor
-
 =pkg DateTime
 
-=pkg KiokuDB
-
 =pkg Moose 2.0400
-
-=pkg MooseX::Types::Path::Class
-
-=pkg MooseX::Types::URI
 
 =pkg namespace::autoclean
 
@@ -109,15 +109,21 @@ package Task::BeLike::DOY;
 
 =pkg Term::ProgressBar
 
+=pkg Test::Fatal
+
+=pkg Test::More 0.88
+
 =pkg Test::Requires
 
 =pkgroup Dependencies for my non-CPAN apps
 
+=pkg File::pushd
+
 =pkg IO::Pty::Easy 0.08
 
-=pkg Net::GitHub 0.06 includes ::V2
+=pkg JSON
 
-=pkg File::pushd
+=pkg Net::GitHub 0.06 includes ::V2
 
 =pkg WWW::Mechanize
 
