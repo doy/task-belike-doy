@@ -71,8 +71,6 @@ package Task::BeLike::DOY;
 
 =pkg Proc::InvokeEditor
 
-=pkg Scalar::Defer
-
 =pkg Term::ReadLine::Gnu
 
 =pkg Test::Pod
@@ -122,8 +120,6 @@ package Task::BeLike::DOY;
 =pkg IO::Pty::Easy 0.08
 
 =pkg JSON
-
-=pkg Net::GitHub 0.06 includes ::V2
 
 =pkg WWW::Mechanize
 
