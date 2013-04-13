@@ -3,8 +3,6 @@ package Task::BeLike::DOY;
 
 =pkgroup Useful apps
 
-=pkg App::Ack
-
 =pkg App::Nopaste 0.20 has Codepeek pastebin
 
 =pkg App::ph
@@ -16,6 +14,8 @@ package Task::BeLike::DOY;
 =pkg LastFM::Export
 
 =pkg Term::TtyRec::Plus 0.09 for ttyplay and ttytime
+
+=pkg Unicode::Tussle
 
 =pkgroup Development tools
 
