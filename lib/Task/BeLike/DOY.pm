@@ -19,7 +19,7 @@ package Task::BeLike::DOY;
 
 =pkgroup Development tools
 
-=pkg App::ForkProve 0.2.0
+=pkg App::ForkProve
 
 =pkg Carp::Always::Color 0.03
 
