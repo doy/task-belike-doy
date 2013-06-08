@@ -33,8 +33,6 @@ package Task::BeLike::DOY;
 
 =pkg Devel::NYTProf 3.00
 
-=pkg Devel::REPL
-
 =pkg Devel::STDERR::Indent
 
 =pkg Devel::Trace
@@ -45,6 +43,8 @@ package Task::BeLike::DOY;
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
+=pkg Reply
+
 =pkg Test::Pretty
 
 =pkgroup Useful optional deps for things
@@ -52,10 +52,6 @@ package Task::BeLike::DOY;
 =pkg autodie
 
 =pkg Archive::Zip
-
-=pkg B::Keywords
-
-=pkg Class::Refresh
 
 =pkg Devel::PartialDump
 
