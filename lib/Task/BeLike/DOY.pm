@@ -23,7 +23,7 @@ package Task::BeLike::DOY;
 
 =pkg Carp::Always::Color 0.03
 
-=pkg Carp::REPL
+=pkg Carp::Reply
 
 =pkg circular::require
 
@@ -110,6 +110,8 @@ package Task::BeLike::DOY;
 =pkg Test::Requires
 
 =pkgroup Dependencies for my non-CPAN apps
+
+=pkg Clipboard
 
 =pkg File::pushd
 
