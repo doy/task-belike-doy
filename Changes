@@ -1,6 +1,7 @@
 Revision history for Task-BeLike-DOY
 
 {{$NEXT}}
+      - switch to Carp::Reply, add Clipboard
 
 0.09  2013-06-08
       - switch to reply, switch away from ack, add Unicode::Tussle
