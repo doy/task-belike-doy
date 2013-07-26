@@ -43,9 +43,13 @@ package Task::BeLike::DOY;
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
+=pkg lib::require::all
+
 =pkg Reply
 
 =pkg Test::Pretty
+
+=pkg Test::Without::Module
 
 =pkgroup Useful optional deps for things
 
