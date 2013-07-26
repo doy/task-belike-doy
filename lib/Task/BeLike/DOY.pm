@@ -27,6 +27,8 @@ package Task::BeLike::DOY;
 
 =pkg circular::require
 
+=pkg Data::Dump
+
 =pkg Devel::Cover
 
 =pkg Devel::FindRef
@@ -56,6 +58,8 @@ package Task::BeLike::DOY;
 =pkg autodie
 
 =pkg Archive::Zip
+
+=pkg B::Keywords
 
 =pkg Devel::PartialDump
 
@@ -87,7 +91,11 @@ package Task::BeLike::DOY;
 
 =pkg App::pmuninstall
 
+=pkg App::PAUSE::Comaint
+
 =pkg CPAN::Mini
+
+=pkg Module::Which
 
 =pkg Pod::Cpandoc
 
@@ -104,6 +112,8 @@ package Task::BeLike::DOY;
 =pkg Path::Class 0.25 for ->traverse
 
 =pkg Plack
+
+=pkg Scope::Guard
 
 =pkg Term::ProgressBar
 
