@@ -1,6 +1,7 @@
 Revision history for Task-BeLike-DOY
 
 {{$NEXT}}
+      - couple more deps
 
 0.10  2013-06-26
       - switch to Carp::Reply, add Clipboard
