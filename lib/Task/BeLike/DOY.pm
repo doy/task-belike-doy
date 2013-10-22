@@ -133,7 +133,11 @@ package Task::BeLike::DOY;
 
 =pkg JSON
 
+=pkg Parse::CPAN::Packages::Fast
+
 =pkg WWW::Mechanize
+
+=pkg WWW::Wunderground::API
 
 =for taskweaver_parsing_is_broken
 
