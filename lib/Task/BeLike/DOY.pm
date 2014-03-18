@@ -127,6 +127,16 @@ package Task::BeLike::DOY;
 
 =pkg Clipboard
 
+=pkg Config::INI::Reader
+
+=pkg CPAN::Changes
+
+=pkg CPAN::DistnameInfo
+
+=pkg Data::ICal
+
+=pkg Data::ICal::DateTime
+
 =pkg File::pushd
 
 =pkg IO::Pty::Easy 0.08
@@ -134,6 +144,8 @@ package Task::BeLike::DOY;
 =pkg JSON
 
 =pkg Parse::CPAN::Packages::Fast
+
+=pkg Term::ReadKey
 
 =pkg WWW::Mechanize
 
