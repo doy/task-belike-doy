@@ -41,11 +41,27 @@ package Task::BeLike::DOY;
 
 =pkg App::cpanminus 1.5007 for build.log prompting
 
-=pkg App::pmuninstall
-
 =pkg App::PAUSE::Comaint
 
 =pkg Pod::Cpandoc
+
+=pkgroup Other dependencies
+
+=pkg Data::ICal
+
+=pkg Data::ICal::DateTime
+
+=pkg Term::ReadKey
+
+=pkg Path::Class
+
+=pkg Email::Address
+
+=pkg Text::CSV
+
+=pkg LastFM::Export
+
+=pkg DBD::SQLite
 
 =for taskweaver_parsing_is_broken
 
