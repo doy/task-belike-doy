@@ -27,6 +27,8 @@ package Task::BeLike::DOY;
 
 =pkg lib::require::all
 
+=pkg Pod::Coverage::TrustPod
+
 =pkg Reply
 
 =pkg Test::Pod
