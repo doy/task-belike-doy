@@ -29,6 +29,10 @@ package Task::BeLike::DOY;
 
 =pkg Reply
 
+=pkg Test::Pod
+
+=pkg Test::Pod::Coverage
+
 =pkgroup Useful optional deps for things
 
 =pkg B::Keywords
