@@ -33,8 +33,6 @@ package Task::BeLike::DOY;
 
 =pkg B::Keywords
 
-=pkg Proc::InvokeEditor
-
 =pkg Term::ReadLine::Gnu
 
 =pkgroup CPAN interaction
@@ -47,21 +45,19 @@ package Task::BeLike::DOY;
 
 =pkgroup Other dependencies
 
-=pkg Data::ICal
-
-=pkg Data::ICal::DateTime
+=pkg Path::Class
 
 =pkg Term::ReadKey
 
-=pkg Path::Class
-
 =pkg Email::Address
 
-=pkg Text::CSV
+=pkg Config::INI
 
 =pkg LastFM::Export
 
 =pkg DBD::SQLite
+
+=pkg URL::Search
 
 =for taskweaver_parsing_is_broken
 
